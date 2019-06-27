@@ -16,6 +16,7 @@
 - [Everything Serverless](https://serverless.css-tricks.com/resources/)
 
 # Tutorials
+- [Colt Steele's Udemy Web Dev Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
 - [Mozilla's Web Dev Tutorials](https://developer.mozilla.org/en-US/docs/Learn)
 - [Salesforce Trailhead](https://trailhead.salesforce.com/)
 - [Project Based Tutorials](https://github.com/tuvtran/project-based-learning)
