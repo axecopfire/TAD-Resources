@@ -154,6 +154,7 @@
 
 - ### Misc
   - [Solved With CSS! Dropdown Menus ](https://css-tricks.com/solved-with-css-dropdown-menus/)
+  - [10 Signs You will Suck at Programming ](https://blog.usejournal.com/10-signs-you-will-suck-at-programming-5497a6a52c5c)
 
 
 - [Radial Gradient Recipes](https://css-tricks.com/radial-gradient-recipes/)
