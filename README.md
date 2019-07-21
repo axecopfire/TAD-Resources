@@ -155,6 +155,7 @@
   - [CSS Selectors reference (WebPlatform)](https://docs.webplatform.org/wiki/css/selectors)
 - ###### Tools
   - [Box Shadow](https://www.cssmatic.com/box-shadow)
+  - [Clip Path](https://bennettfeely.com/clippy/)
 
 ###### Misc
 - [Radial Gradient Recipes](https://css-tricks.com/radial-gradient-recipes/)
