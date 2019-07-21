@@ -164,9 +164,10 @@
 # Interview Prep
 - [How to Present a Github Project to a future employer](https://thehftguy.com/2016/10/24/heres-how-to-make-a-good-github-project-for-your-resume/)
 
-- ### Misc
-  - [Solved With CSS! Dropdown Menus ](https://css-tricks.com/solved-with-css-dropdown-menus/)
-  - [10 Signs You will Suck at Programming ](https://blog.usejournal.com/10-signs-you-will-suck-at-programming-5497a6a52c5c)
+### Misc
+- [Solved With CSS! Dropdown Menus ](https://css-tricks.com/solved-with-css-dropdown-menus/)
+- [10 Signs You will Suck at Programming ](https://blog.usejournal.com/10-signs-you-will-suck-at-programming-5497a6a52c5c)
+- [API Design](https://opensource.zalando.com/restful-api-guidelines/)
 
 
 
