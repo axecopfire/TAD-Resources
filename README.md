@@ -143,22 +143,19 @@
 - [Node JS Testing Intro](https://hackernoon.com/a-crash-course-on-testing-with-node-js-6c7428d3da02)
 
 #### CSS
-###### CSS Grid
-- [CSS Grid 12 Column layout](https://erikmonjas.github.io/css-grid-12-column-layout/)
-- [cssgr.id: An Interactive CSS Grid Code Tool and Generator](https://cssgr.id/)
-
-###### Flexbox
-- [The Power of Flex-Grow](https://hackernoon.com/the-power-of-flex-grow-d8ea61ccf16e)
-- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [Flexbox Froggy](https://flexboxfroggy.com/)
-
-###### Selectors
-- [Css Selectors Reference (W3Schools)](http://www.w3schools.com/cssref/css_selectors.asp)
-- [How CSS Selectors Work (CSS-Tricks)](https://css-tricks.com/how-css-selectors-work/)
-- [CSS Selectors reference (WebPlatform)](https://docs.webplatform.org/wiki/css/selectors)
-
-###### Tools
-- [Box Shadow](https://www.cssmatic.com/box-shadow)
+- ###### CSS Grid
+  - [CSS Grid 12 Column layout](https://erikmonjas.github.io/css-grid-12-column-layout/)
+  - [cssgr.id: An Interactive CSS Grid Code Tool and Generator](https://cssgr.id/)
+- ###### Flexbox
+  - [The Power of Flex-Grow](https://hackernoon.com/the-power-of-flex-grow-d8ea61ccf16e)
+  - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+  - [Flexbox Froggy](https://flexboxfroggy.com/)
+- ###### Selectors
+  - [Css Selectors Reference (W3Schools)](http://www.w3schools.com/cssref/css_selectors.asp)
+  - [How CSS Selectors Work (CSS-Tricks)](https://css-tricks.com/how-css-selectors-work/)
+  - [CSS Selectors reference (WebPlatform)](https://docs.webplatform.org/wiki/css/selectors)
+- ###### Tools
+  - [Box Shadow](https://www.cssmatic.com/box-shadow)
 
 ###### Misc
 - [Radial Gradient Recipes](https://css-tricks.com/radial-gradient-recipes/)
