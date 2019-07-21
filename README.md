@@ -37,8 +37,6 @@
 - [Brutalist Design](http://brutalistwebsites.com/)
 - [Collect UI](https://medium.com/@CollectUI)
 
-
-
 # Language Training
 - [Exercism.io](http://exercism.io/)
 
@@ -72,6 +70,7 @@
 
 #### Icons
 - [Font Awesome Icons](https://fontawesome.com/icons?d=gallery)
+- [Dev Icons](https://konpa.github.io/devicon/)
 
 #### Ipsum
 
