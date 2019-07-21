@@ -83,6 +83,7 @@
 ## Web Dev
 - [Reddit Programming](https://www.reddit.com/r/programming/)
 - [codeburst.io](https://codeburst.io/)
+- [Intro to Web Dev](http://www.internetfundamentals.com/)
 
 ## Cheat Sheets
 - [Big O Cheatsheet](http://bigocheatsheet.com/)
