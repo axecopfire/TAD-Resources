@@ -12,7 +12,6 @@
 - [Creative Coding](https://github.com/terkelg/awesome-creative-coding)
 - [Wireframes](http://wireframes.tumblr.com/)
 - [Frontend Happy Hour Picks](https://github.com/FrontEndHappyHour/front-end-happy-hour-picks)
-- [Free Design Illustrations](https://www.lapa.ninja/blog/free-illustrations-library-for-your-project/)
 - [Everything Serverless](https://serverless.css-tricks.com/resources/)
 
 # Tutorials
@@ -67,18 +66,23 @@
 - [Frontend Focus](https://frontendfoc.us/)
 - [Rand Fishkin at Moz](https://moz.com/community/users/63)
 
-# Resources
-  - ## General
-    - [Pexels Free Photos](https://www.pexels.com/)
-    - [Unsplash Free Photos](https://unsplash.com/)
-    - [Hipster Ipsum](https://hipsum.co/)
-    - [Box Shadow](https://www.cssmatic.com/box-shadow)
-    - [Cloudinary Free Image Hosting](https://cloudinary.com/)
-    - [Easing](http://easings.net/)
-    - [Can I Use](https://caniuse.com/)
-    
-## Images
-- [UnDraw](https://undraw.co/)
+# Free
+#### Design
+- [Free Design Illustrations](https://www.lapa.ninja/blog/free-illustrations-library-for-your-project/)
+
+#### Icons
+- [Font Awesome Icons](https://fontawesome.com/icons?d=gallery)
+
+#### Ipsum
+
+- [Hipster Ipsum](https://hipsum.co/)
+- [Cloudinary Free Image Hosting](https://cloudinary.com/)
+- [Easing](http://easings.net/)
+- [Can I Use](https://caniuse.com/)
+
+#### Images
+- [Pexels Free Photos](https://www.pexels.com/)
+- [Unsplash Free Photos](https://unsplash.com/)
 
 ## Web Dev
 - [Reddit Programming](https://www.reddit.com/r/programming/)
@@ -122,33 +126,44 @@
   - [Observatory by Mozzilla (free security scan for your domain)]()
   - [Add-on from Mozzilla for Automating a Secure Content Security Policy](https://addons.mozilla.org/en-US/firefox/addon/laboratory-by-mozilla/)
   - [Mozilla SSL Configuration Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
-# CSS
-- ### Selectors
-  - [Css Selectors Reference (W3Schools)](http://www.w3schools.com/cssref/css_selectors.asp)
-  - [How CSS Selectors Work (CSS-Tricks)](https://css-tricks.com/how-css-selectors-work/)
-  - [CSS Selectors reference (WebPlatform)](https://docs.webplatform.org/wiki/css/selectors)
 
-- ### Layout
-  - ### CSS Grid
-    - [CSS Grid 12 Column layout](https://erikmonjas.github.io/css-grid-12-column-layout/)
-    - [cssgr.id: An Interactive CSS Grid Code Tool and Generator](https://cssgr.id/)
-  - ### Flexbox
-    - [The Power of Flex-Grow](https://hackernoon.com/the-power-of-flex-grow-d8ea61ccf16e)
-    - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-    - [Flexbox Froggy](https://flexboxfroggy.com/)
+# Languages/Language Features
 
-
-# GraphQL
+#### GraphQL
 - [GraphQL for FE Devs](https://css-tricks.com/front-end-developers-guide-graphql/)
 
-# SQL
+#### SQL
 - [MySQL CLI Cheat Sheet](https://gist.github.com/hofmannsven/9164408)
 
-# ES6
+#### ES6
 - [ES6 Cheat Sheet](http://es6-features.org/)
-# NodeJS
+
+#### NodeJS
 - [Preventing SQLI with Node](https://blog.hailstone.io/how-to-prevent-sql-injection-nodejs/)
 - [Node JS Testing Intro](https://hackernoon.com/a-crash-course-on-testing-with-node-js-6c7428d3da02)
+
+#### CSS
+###### CSS Grid
+- [CSS Grid 12 Column layout](https://erikmonjas.github.io/css-grid-12-column-layout/)
+- [cssgr.id: An Interactive CSS Grid Code Tool and Generator](https://cssgr.id/)
+
+###### Flexbox
+- [The Power of Flex-Grow](https://hackernoon.com/the-power-of-flex-grow-d8ea61ccf16e)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Flexbox Froggy](https://flexboxfroggy.com/)
+
+###### Selectors
+- [Css Selectors Reference (W3Schools)](http://www.w3schools.com/cssref/css_selectors.asp)
+- [How CSS Selectors Work (CSS-Tricks)](https://css-tricks.com/how-css-selectors-work/)
+- [CSS Selectors reference (WebPlatform)](https://docs.webplatform.org/wiki/css/selectors)
+
+###### Tools
+- [Box Shadow](https://www.cssmatic.com/box-shadow)
+
+###### Misc
+- [Radial Gradient Recipes](https://css-tricks.com/radial-gradient-recipes/)
+
+---
 
 # Interview Prep
 - [How to Present a Github Project to a future employer](https://thehftguy.com/2016/10/24/heres-how-to-make-a-good-github-project-for-your-resume/)
@@ -158,4 +173,4 @@
   - [10 Signs You will Suck at Programming ](https://blog.usejournal.com/10-signs-you-will-suck-at-programming-5497a6a52c5c)
 
 
-- [Radial Gradient Recipes](https://css-tricks.com/radial-gradient-recipes/)
+
