@@ -94,11 +94,14 @@
 
 ## Fonts and Typography
 - [Google Fonts](https://fonts.google.com/)
-- ## Source Control
+
+## Source Control
+- [Git Concepts not Syntax](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
 - [Git Immersion](http://gitimmersion.com)
 - [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
 - [Learn Git Branching](https://learngitbranching.js.org)
 - [Git Branching Strategy](http://nvie.com/posts/a-successful-git-branching-model/)
+
 
 ## Serverless
 - [Codepen and Firebase](https://blog.codepen.io/2018/01/15/build-serverless-blog-codepen/)
